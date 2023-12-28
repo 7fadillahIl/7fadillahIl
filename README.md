@@ -2,7 +2,7 @@
 <h3 align="center"> Seorang mahasiswa, pemula :)!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7fadillahIl&label=Profile%20views&color=129e00&style=plastic" alt="ilham" /> </p>
-<img align="right" alt="Coding" width="250" height="400" src="milham.jpg">
+<img align="right" alt="Coding" width="250" height="400" src="milham.png">
 
 - 👨‍💻
 
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/m-ilham-faadhilah-686a30256/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bayu1s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/m-ilham-faadhilah-686a30256/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ilham" height="30" width="40" /></a>
 <a href="https://instagram.com/fadillahilham7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ilham" height="30" width="40" /></a>
 
 </p>

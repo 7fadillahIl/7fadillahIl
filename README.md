@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7fadillahIl&label=Profile%20views&color=129e00&style=plastic" alt="ilham" /> </p>
 <img align="right" alt="Coding" width="250" height="400" src="milham.png">
 
-- 👨‍💻 **what's up yo kenalkan saya ilham So good to be back Raheem**
+- 👨‍💻 
 
 - 📫 How to reach me **fadillahcokrosuryo123@gmail.com**
 
